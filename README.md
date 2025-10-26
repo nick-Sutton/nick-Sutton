@@ -1,22 +1,3 @@
-     _...._
-   .-.     /
-  /o.o\ ):.\
-  \   / `- .`--._
-  // /            `-.
- '...\     .         `.
-  `--''.    '          `.
-      .'   .'            `-.
-   .-'    /`-.._            \
- .'    _.'      :      .-'"'/
-| _,--`       .'     .'    /
-\ \          /     .'     /
- \///        |    ' |    /
-             \   (  `.   ``-.
-              \   \   `._    \
-            _.-`   )    .'    )
-  Hi       `.__.-'  .-' _-.-'
-                     `.__,'
-
 <!--
 **nick-Sutton/nick-Sutton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. &layout=compact
 -->
