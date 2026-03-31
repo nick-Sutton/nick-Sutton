@@ -8,7 +8,7 @@
 
 Hi, I'm Nick. 
 
-I study Computer Science and Mathematics at NCSU. I like Robotics, Software Systems, and Programming Languages.
+I study Computer Science and Mathematics at NCSU. I like robotics, planning, control, and software systems.
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nick-Sutton&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nick-Sutton&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nick-Sutton&theme=dracula)|
 |-----|------|------|
