@@ -4,7 +4,7 @@
 
 Hi, I'm Nick. 
 
-I study Computer Science and Mathematics at NCSU. I like Algorithms, robotics, planning, and software systems.
+I study Computer Science and Mathematics at NCSU. I like Algorithms, robotics, optimization, and software systems.
 
 [![](https://raw.githubusercontent.com/nick-sutton/nick-sutton/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/nick-sutton)
 
